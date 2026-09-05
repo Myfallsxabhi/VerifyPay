@@ -1,4 +1,4 @@
-# AI Invoice / Receipt Auditor
+# VerifyPay
 
 **Track:** Open Track — Razorpay AI Buildathon 2026
 
@@ -14,13 +14,13 @@ to get wrong when you're tired or rushing.
 
 You paste in raw invoice text (however messy). The AI:
 
-1. **Extracts** structured data — vendor, invoice number, date, line
+1. Extracts structured data — vendor, invoice number, date, line
    items, subtotal, tax, grand total.
-2. **Recomputes the math itself** — does `qty × unit_price` match the
+2. Recomputes the math itself — does `qty × unit_price` match the
    line total? Does everything sum to the grand total?
-3. **Flags anomalies** — duplicate line items, suspiciously round
+3. Flags anomalies — duplicate line items, suspiciously round
    numbers, missing tax, missing vendor/date, implausible prices.
-4. **Gives a plain-English verdict** (low / medium / high risk) a
+4. Gives a plain-English verdict(low / medium / high risk) a
    human can read in 10 seconds to decide: approve, hold, or reject.
 
 ## Architecture
