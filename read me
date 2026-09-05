@@ -1,0 +1,7 @@
+-----starting the software------
+
+
+1st we have to open the terminal and have to type pip instal -r requirements.txt
+2nd we have to add the google API (AQ.Ab8RN6LoeC6zEagYuZr7-r-afn6lIChziPP1eurFkbB0YV06jw)
+3rd we have to write streamlit run app.py
+then it'll redirect to the software
