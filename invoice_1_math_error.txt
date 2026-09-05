@@ -1,0 +1,21 @@
+INVOICE
+
+Vendor: Sharma Office Supplies Pvt Ltd
+Invoice No: SOS-2026-0447
+Date: 02-Sep-2026
+
+Bill To: Razorpay Software Pvt Ltd, Bangalore
+
+Description                  Qty    Unit Price    Line Total
+A4 Paper Ream (500 sheets)    10       450.00        4500.00
+Blue Ballpoint Pens (box)     5         120.00        600.00
+Blue Ballpoint Pens (box)     5         120.00        600.00
+Office Chair - Ergonomic      2        7500.00       15000.00
+Whiteboard Marker Set         3         300.00         900.00
+
+Subtotal: 21600.00
+Tax (18% GST): 3888.00
+Grand Total: 26000.00
+
+Payment Terms: Net 30
+Bank: HDFC Bank, A/C 00123456789

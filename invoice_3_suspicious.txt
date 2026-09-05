@@ -1,0 +1,11 @@
+RECEIPT
+
+Invoice No: 1009
+
+Description                Qty    Unit Price    Line Total
+Consulting Services         1       50000.00      50000.00
+Miscellaneous Charges       1       10000.00      10000.00
+
+Grand Total: 60000.00
+
+Please pay in cash. No further details provided.

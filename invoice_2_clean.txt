@@ -1,0 +1,19 @@
+TAX INVOICE
+
+Vendor: BlueDart Logistics Ltd
+GSTIN: 29ABCDE1234F1Z5
+Invoice No: BD-88213
+Date: 30-Aug-2026
+
+Bill To: Razorpay Software Pvt Ltd, Bangalore
+
+Description                     Qty    Unit Price    Line Total
+Courier - Express (0-5kg)        12      145.50        1746.00
+Courier - Standard (0-5kg)        8       95.25         762.00
+Packaging Material Charges        1      210.00         210.00
+
+Subtotal: 2718.00
+Tax (18% GST): 489.24
+Grand Total: 3207.24
+
+Payment Terms: Net 15
